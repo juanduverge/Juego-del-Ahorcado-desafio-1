@@ -1,0 +1,19 @@
+.adivinado {
+    text-align: center;
+    color: #ffffff;
+    font-size: 2.8rem;
+  }
+  
+  .letra {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+  }
+  
+  .adivinada {
+    width: 5.5rem;
+    height: 5.5rem;
+    border-bottom: solid 1px #ffffff;
+    margin-left: 0.4rem;
+    line-height: 4.5rem;
+  }

@@ -1,0 +1,20 @@
+[type="button"] {
+    width: 18rem;
+    padding: 1rem;
+    border-radius: 2rem;
+    background-color: #480a71;
+    border: solid 1px #bcc4ce;   
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .btn-azul {
+    background-color: #480a71;
+    color: #fff;
+    border-color: rgb(168, 204, 38);
+  }
+  
+  .botones {
+    text-align: center;
+    margin-top: 3rem;
+  }
